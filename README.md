@@ -4,7 +4,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juvascoli&layout=compact)
 
 
-## skills ⚒️
 <img align="left" alt="java" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" alt="git" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="react" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
